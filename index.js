@@ -18,5 +18,5 @@ module.exports = xor;
  */
 
 function xor(a, b) {
-  return !a ^ !b;
+  return !a != !b;
 }
