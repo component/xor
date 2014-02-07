@@ -1,6 +1,6 @@
 {
   "name": "xor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "tiny xor utility function",
   "main": "index.js",
   "scripts": {
