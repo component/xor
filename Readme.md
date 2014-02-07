@@ -9,6 +9,10 @@
 
     $ component install component/xor
 
+  Or with node.js:
+
+    $ npm install component/xor
+
 ## API
 
 ### xor(bool, bool)
