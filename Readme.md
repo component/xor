@@ -22,6 +22,13 @@ xor(false, true) // true
 xor(false, false) // false
 ```
 
+## Test
+
+```
+npm install
+make test
+```
+
 ## License
 
   MIT
