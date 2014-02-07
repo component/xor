@@ -1,0 +1,18 @@
+{
+  "name": "xor",
+  "version": "0.0.1",
+  "description": "tiny xor utility function",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "devDependencies": {
+    "better-assert": "~1.0.0",
+    "mocha": "~1.17.1"
+  },
+  "keywords": [
+    "xor"
+  ],
+  "author": "Matthew Mueller",
+  "license": "MIT"
+}
