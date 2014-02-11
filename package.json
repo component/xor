@@ -10,6 +10,11 @@
     "better-assert": "~1.0.0",
     "mocha": "~1.17.1"
   },
+  "component": {
+    "scripts": {
+      "xor/index.js": "index.js"
+    }
+  },
   "keywords": [
     "xor"
   ],
