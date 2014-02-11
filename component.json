@@ -3,11 +3,12 @@
   "repo": "component/xor",
   "description": "tiny xor utility function",
   "version": "0.0.2",
-  "keywords": [],
+  "keywords": [
+    "xor"
+  ],
   "dependencies": {},
   "development": {},
   "license": "MIT",
-  "main": "index.js",
   "scripts": [
     "index.js"
   ]
