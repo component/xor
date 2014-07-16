@@ -11,7 +11,7 @@
 
   Or with node.js:
 
-    $ npm install component/xor
+    $ npm install component-xor
 
 ## API
 
