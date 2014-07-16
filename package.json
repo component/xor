@@ -19,5 +19,6 @@
     "xor"
   ],
   "author": "Matthew Mueller",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "component/xor"
 }
