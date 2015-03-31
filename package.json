@@ -1,6 +1,6 @@
 {
   "name": "component-xor",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "tiny xor utility function",
   "main": "index.js",
   "scripts": {
